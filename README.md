@@ -52,5 +52,5 @@
 
 ## ❤️ Let's get connected:
 
-<p><a href="https://priyab-portfolio.vercel.app" target="_blank"><img alt="priya-tech" src="https://img.shields.io/badge/priya.tech-%230077B5.svg?&style=for-the-badge&logo=Priya.Tech&logoColor=white" height="30px" /></a>  
+<p><a href="https://portfolio-priyab.vercel.app" target="_blank"><img alt="priya-tech" src="https://img.shields.io/badge/priya.tech-%230077B5.svg?&style=for-the-badge&logo=Priya.Tech&logoColor=white" height="30px" /></a>  
 </div>
