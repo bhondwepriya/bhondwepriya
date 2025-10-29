@@ -11,7 +11,7 @@
 
 <img  src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
 
-- 🙋‍♂️ All about me is at   <a href="" target="_blank">My Website</a> 
+- 🙋‍♂️ All about me is at   <a href="https://portfolio-priyab.vercel.app/resume" target="_blank">My Website</a> 
 <!-- (/)** -->
 
 - 🌱 Curious learner who loves solving real-world problems with code
@@ -52,5 +52,5 @@
 
 ## ❤️ Let's get connected:
 
-<p><a href="https://priyab-portfolio.vercel.app/" target="_blank"><img alt="priya-tech" src="https://img.shields.io/badge/priya.tech-%230077B5.svg?&style=for-the-badge&logo=Priya.Tech&logoColor=white" height="30px" /></a>  
+<p><a href="[https://priyab-portfolio.vercel.app/](https://portfolio-priyab.vercel.app/resume)" target="_blank"><img alt="priya-tech" src="https://img.shields.io/badge/priya.tech-%230077B5.svg?&style=for-the-badge&logo=Priya.Tech&logoColor=white" height="30px" /></a>  
 </div>
